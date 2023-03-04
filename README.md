@@ -1,2 +1,2 @@
 # ImageV
-Small image viewer using MS-PictherBox
+Small image viewer using MS-PictureBox
